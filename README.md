@@ -94,8 +94,8 @@ Projet e-commerce réalisé dans le cadre du cours de commerce électronique.
 
 | Document | Description |
 |---|---|
-| [📄 Étude générale — Phase 1]([./Projet-e-commerce_1.pdf](https://drive.google.com/file/d/1tROHXzJ1B48ALg395wEsWFnDbk4s4qgd/view?usp=drive_link)) | Présentation du concept, problème, solution, clientèle cible, produits et USP |
-| [📄 Analyse des besoins — Phase 2]([./Projet-e-commerce_2.pdf](https://drive.google.com/file/d/1TNgA-UKv3Hr0KsJUl7wl7qRMdvX4Rk6f/view?usp=drive_link)) | Analyse de marché, SWOT, concurrents, business plan, ressources, fonctionnalités et charte graphique |
+| [📄 Étude générale — Phase 1](https://drive.google.com/file/d/1tROHXzJ1B48ALg395wEsWFnDbk4s4qgd/view?usp=drive_link) | Présentation du concept, problème, solution, clientèle cible, produits et USP |
+| [📄 Analyse des besoins — Phase 2](https://drive.google.com/file/d/1TNgA-UKv3Hr0KsJUl7wl7qRMdvX4Rk6f/view?usp=drive_link) | Analyse de marché, SWOT, concurrents, business plan, ressources, fonctionnalités et charte graphique |
 
 ---
 
