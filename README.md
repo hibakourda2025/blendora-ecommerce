@@ -103,7 +103,7 @@ Projet e-commerce réalisé dans le cadre du cours de commerce électronique.
 
 | Ressource | Lien |
 |---|---|
-| 🖼️ Maquettes interactives Figma (wireframes cliquables) | [Voir sur Figma](https://www.figma.com/make/EWTbqlmbwO9o7vUMg78D4h/Wireframe-e-commerce-site?node-id=) |
+| 🖼️ Maquettes interactives Figma (wireframes cliquables) | [Voir sur Figma](https://www.figma.com/make/EWTbqlmbwO9o7vUMg78D4h/Wireframe-e-commerce-site?code-node-id=0-9&p=f&t=2yZ1jD52iask4L3d-0&fullscreen=1) |
 | 🌐 Site web Blendora (version réelle) | [Voir le site](https://www.figma.com/make/U2gqWj7GczxyEWSN4qr4Kl/Wireframes-site-Blendora?code-node-id=0-9&p=f&t=hxcKQUMUMxD6eIZe-0&fullscreen=1) |
 
 > Les wireframes Figma sont **cliquables et interactifs** — en appuyant sur les catégories, sous-catégories et boutons, vous serez redirigé(e) vers les pages correspondantes.
